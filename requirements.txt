@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+opencv-python-headless
+scikit-image
+pillow
+tqdm
+umap-learn
+joblib
+openpyxl
